@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<style>
+body{
+text-align: center;
+color :blue;
+font-family: Helvetica;
+background: url("http://students.iitk.ac.in/ss/cosha/img/h5ms.jpg") ;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+</style>
+<body>
+
+<h1>Prateek Jain</h1>
+
+<p>I am 2nd year undergrauate student of IIT Kanpur.I love to explore things and learn as many things as possible</p>
+
+</body>
+</html>
